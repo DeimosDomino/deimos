@@ -1,0 +1,2 @@
+The Player is located at x:10 y:0, has 100 hp and 0 points
+
